@@ -1,2 +1,4 @@
 # angga-resolusi
-Repositori untuk menyimpan rencana saya ke depannya
+----- GitHub -----
+- Commit = History yang pernah di edit
+- Branch = Sebuah cabang yang tidak mengganggu main 
