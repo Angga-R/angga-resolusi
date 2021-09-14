@@ -1,3 +1,5 @@
 - Belajar JavaScript
+- Belajar Laravel
 - Belajar JavaScript Lanjutan
 - Belajar NodeJS
+- tidak
